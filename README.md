@@ -5,6 +5,8 @@
 - **TypeScript is like C#**: This guide walks you through the similarities (and differences) between TypeScript and C#. [Guide](https://typescript-is-like-csharp.chrlschn.dev/)
 
 ## CLI Tools
+- **Scoop**: A command-line installer for Windows. [GitHub](https://github.com/ScoopInstaller/Scoop)
+- **OhMyPosh**: A prompt theme engine for any shell. [Site](https://ohmyposh.dev/)
 - **Vite**: A fast and modern build tool for web development, offering a rich feature set. [GitHub](https://github.com/vitejs/vite)
 - **npm**: The Node.js package manager, essential for managing JavaScript packages and dependencies. [Node.js](https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager)
 
